@@ -1,0 +1,14 @@
+.oip{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+.empresa{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+}
